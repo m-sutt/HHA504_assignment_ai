@@ -10,3 +10,14 @@
 # Step 2: Work with pre-trained speech model
 -  Upload audio file to GCP notebook enviroment
 -  Use speech to text API
+
+# Step 3: Work with Pre-trained Vision Models
+- Using GCP Vision API
+  - Access Vision API, upload an Image, Detect Objects/Texts
+    
+- Using Azure AI Vision
+  - Access AML Notebooks in Azure, Upload an Image and Use the Pre-trained model
+
+
+  
+## Results

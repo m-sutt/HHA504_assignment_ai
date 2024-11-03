@@ -34,3 +34,10 @@
 - Failed connection
 
   <img width="1217" alt="Azure_problem" src="https://github.com/user-attachments/assets/616d3b15-0000-4854-a126-000b68eefabf">
+
+### Comments
+- Azure and GCP were relatively easy to use with the help of some online searches how to upload files, however, could not pass certain technical difficulties as stated above.
+- Azure provided some Generative AI with prompt flow which could proved to be interesting.
+- The notebook samples were a nice feature
+
+  <img width="1085" alt="Azure comments" src="https://github.com/user-attachments/assets/5a4fbbf6-5c8a-4aa8-aa8a-e258ea08bc0e">

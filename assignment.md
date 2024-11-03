@@ -2,10 +2,12 @@
 
 # Step 1: Setup enviroment
 - Access GCP Vertex AI Notebooks, enable speecj-to-text API and Vision API
-<img width="162" alt="GCP1" src="https://github.com/user-attachments/assets/1bccf35e-3973-44ec-bfbe-8c9d189d1a51">
+  
+  <img width="162" alt="GCP1" src="https://github.com/user-attachments/assets/1bccf35e-3973-44ec-bfbe-8c9d189d1a51">
 
 - Access Azure Machine Learning (AML) Notebooks (Vision API in AML)
 
+  <img width="428" alt="Azure1" src="https://github.com/user-attachments/assets/6a6a751d-fa91-42c2-8249-37161249e724">
 
 # Step 2: Work with pre-trained speech model
 -  Upload audio file to GCP notebook enviroment
@@ -18,6 +20,17 @@
 - Using Azure AI Vision
   - Access AML Notebooks in Azure, Upload an Image and Use the Pre-trained model
 
+  <img width="708" alt="Azure3" src="https://github.com/user-attachments/assets/b8d609c2-5955-4789-a5dd-72ce5290703a">
+
+  <img width="746" alt="Azure4" src="https://github.com/user-attachments/assets/c52ded83-2808-453d-9ae0-db1e4f15d45f">
 
   
 ## Results
+
+### GCP
+- Could not connect or open up an instance
+
+### Azure
+- Failed connection
+
+  <img width="1217" alt="Azure_problem" src="https://github.com/user-attachments/assets/616d3b15-0000-4854-a126-000b68eefabf">
